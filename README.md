@@ -28,4 +28,5 @@ https://escapefromcoding.tistory.com/696
 
 ### 개인 프로젝트 (bookclub)
 
+- [bookclub](https://escapefromcoding.tistory.com/695)
 - 책 구매 결제 모듈 연동
