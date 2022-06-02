@@ -25,3 +25,7 @@ https://escapefromcoding.tistory.com/696
 
 - 개발 내용 문서로 작성하여 공유(ex. 네이버 EP 연동)
 - 개발환경 셋팅 방법, 각종 url 정리하여 공유
+
+### 개인 프로젝트 (bookclub)
+
+- 책 구매 결제 모듈 연동
