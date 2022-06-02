@@ -10,6 +10,8 @@
 ## 인프라
 로컬에서 maven build 및 filezilla로 수작업하여 배포하였던 것을
 svn, jenkins로 CI/CD 구축
+https://escapefromcoding.tistory.com/695
 
 ## 북클럽 스터디
 실용주의 프로그래머 TOPIC 30~40 중 1개 주제를 정해서 한주동안 실천하고 글 남기기
+https://escapefromcoding.tistory.com/696
